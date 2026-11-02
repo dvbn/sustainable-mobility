@@ -1,0 +1,7 @@
+/data
+tables/
+results/
+.Rhistory
+.RData
+.DS_Store
+*.log
